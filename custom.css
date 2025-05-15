@@ -150,11 +150,14 @@ body {
 
 /* Email */
 .email-button::before {
-    background: radial-gradient(circle at 50% 50%, #eaf4ff, #ffffff);
+    background: radial-gradient(circle at 50% 50%, #ffffff, #ffffff);
 }
 
 .email-button .icon {
-    color: #ffffe6;
+    color: #ffffff;
+}
+.email-button::before {
+    background: radial-gradient(circle at 50% 50%, #4CAF50, #4CAF50);
 }
 
 /* Styles supplémentaires pour garantir la compatibilité */

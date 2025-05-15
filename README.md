@@ -1,6 +1,6 @@
-# Site Personnel de Mike Tshiyuka
+# Site Personnel de Joy Lukoji
 
-Ce site présente le profil professionnel de Mike Tshiyuka, CEO de BasykTech, avec des liens vers ses réseaux sociaux et ses coordonnées de contact.
+Ce site présente le profil professionnel de Joy Mbiya, Developper de BasykTech, avec des liens vers ses réseaux sociaux et ses coordonnées de contact.
 
 ## Technologies utilisées
 

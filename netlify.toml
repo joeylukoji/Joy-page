@@ -1,0 +1,9 @@
+[build]
+  publish = "."
+  command = ""
+
+[build.environment]
+  NODE_VERSION = "18"
+
+[template.environment]
+  NODE_VERSION = "18"
